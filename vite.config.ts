@@ -45,4 +45,7 @@ export default defineConfig({
   define: {
     CONFIG: CONFIG,
   },
+  server: {
+    port: 3000, // Set your desired port here
+  },
 });
